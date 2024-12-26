@@ -1,4 +1,4 @@
 PyCairo experiments
 ===================
 
-Figuring out how to make generative art using pycairo, pillow and pygame, hopefully
+Figuring out how to make generative art using pycairo, pillow and pygame/arcade, hopefully

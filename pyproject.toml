@@ -11,6 +11,7 @@ pycairo = "^1.27.0"
 pillow = "^11.0.0"
 pygame = "^2.6.1"
 numpy = "^2.2.1"
+arcade = "3.0.0.dev40"
 
 
 [build-system]

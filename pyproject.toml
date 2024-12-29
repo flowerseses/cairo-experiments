@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "cairo-experiments"
+name = "python-art-experiments"
 version = "0.1.0"
 description = ""
 authors = ["Iva Marika Dervisevic <thedervish@gmail.com>"]

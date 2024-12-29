@@ -7,7 +7,7 @@ import sys
 
 import cairo
 import pygame
-from cairo_experiments.utils.recorder import PygameRecord
+from utils.recorder import PygameRecord
 
 def draw(surface):
     x, y, radius = (250, 250, 200)
